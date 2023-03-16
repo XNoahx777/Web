@@ -1,8 +1,7 @@
 module.exports = {
-  siteTitle: 'gatsby-starter-morning-dew',
-  siteDescription: 'A Gatsby theme/starter to build lightning-fast websites',
-  authorName: 'Maxence Poutord',
-  twitterUsername: '_maxpou',
+  siteTitle: 'Bienvenue ELA Agency',
+  siteDescription: 'Se parte de nuestros talentos y genera ingresos con nuestra familia ELA el placer de colaborar!',
+  authorName: 'Noahx',
   authorAvatar: 'avatar.jpeg', // file in content/images
   defaultLang: 'en', // show flag if lang is not default. Leave empty to enable flags in post lists
   authorDescription: `
